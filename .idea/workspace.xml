@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="292ca40b-72ef-4d7e-98e7-21dfdd32836e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="20wTaxSX404fq5G7s7WQcXHwTPX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.359352" />
+    <property name="settings.editor.selected.configurable" value="perfecto-lab-settings-screen" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SampleCI" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java/SampleCI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng1.xml">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Perfecto_Gradle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng4.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Perfecto_Gradle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng4.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng5.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Perfecto_Gradle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng5.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng6.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Perfecto_Gradle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng6.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng7.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Perfecto_Gradle" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng7.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng1.xml" />
+        <item itemvalue="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng7.xml" />
+        <item itemvalue="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng6.xml" />
+        <item itemvalue="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng5.xml" />
+        <item itemvalue="TestNG./Users/sreevatsa/Downloads/Perfecto_Gradle-master/src/test/resources/testng4.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292ca40b-72ef-4d7e-98e7-21dfdd32836e" name="Default Changelist" comment="" />
+      <created>1636954717435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636954717435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="80" key="#Project_Structure" timestamp="1636956338920">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="320" y="80" key="#Project_Structure/0.25.1440.786@0.25.1440.786" timestamp="1636956338920" />
+    <state x="483" y="125" key="#xdebugger.evaluate" timestamp="1637420174895">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="483" y="125" key="#xdebugger.evaluate/0.25.1440.786@0.25.1440.786" timestamp="1637420174895" />
+    <state width="421" height="466" key="DebuggerActiveHint" timestamp="1637403728922">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="421" height="466" key="DebuggerActiveHint/0.25.1440.786@0.25.1440.786" timestamp="1637403728922" />
+    <state width="1384" height="201" key="GridCell.Tab.0.bottom" timestamp="1637936038559">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.0.bottom/0.25.1440.786@0.25.1440.786" timestamp="1637936038559" />
+    <state width="1384" height="36" key="GridCell.Tab.0.bottom/0.25.1440.788@0.25.1440.788" timestamp="1637155952131" />
+    <state width="1384" height="36" key="GridCell.Tab.0.bottom/0.25.1440.791@0.25.1440.791" timestamp="1637210728688" />
+    <state width="1384" height="201" key="GridCell.Tab.0.center" timestamp="1637936038559">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.0.center/0.25.1440.786@0.25.1440.786" timestamp="1637936038559" />
+    <state width="1384" height="36" key="GridCell.Tab.0.center/0.25.1440.788@0.25.1440.788" timestamp="1637155952129" />
+    <state width="1384" height="36" key="GridCell.Tab.0.center/0.25.1440.791@0.25.1440.791" timestamp="1637210728687" />
+    <state width="1384" height="201" key="GridCell.Tab.0.left" timestamp="1637936038558">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.0.left/0.25.1440.786@0.25.1440.786" timestamp="1637936038558" />
+    <state width="1384" height="36" key="GridCell.Tab.0.left/0.25.1440.788@0.25.1440.788" timestamp="1637155952128" />
+    <state width="1384" height="36" key="GridCell.Tab.0.left/0.25.1440.791@0.25.1440.791" timestamp="1637210728686" />
+    <state width="1384" height="201" key="GridCell.Tab.0.right" timestamp="1637936038559">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.0.right/0.25.1440.786@0.25.1440.786" timestamp="1637936038559" />
+    <state width="1384" height="36" key="GridCell.Tab.0.right/0.25.1440.788@0.25.1440.788" timestamp="1637155952129" />
+    <state width="1384" height="36" key="GridCell.Tab.0.right/0.25.1440.791@0.25.1440.791" timestamp="1637210728688" />
+    <state width="1384" height="201" key="GridCell.Tab.1.bottom" timestamp="1637936038569">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.1.bottom/0.25.1440.786@0.25.1440.786" timestamp="1637936038569" />
+    <state width="1396" height="237" key="GridCell.Tab.1.bottom/0.25.1440.788@0.25.1440.788" timestamp="1637133724446" />
+    <state width="1384" height="201" key="GridCell.Tab.1.center" timestamp="1637936038566">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.1.center/0.25.1440.786@0.25.1440.786" timestamp="1637936038566" />
+    <state width="1396" height="237" key="GridCell.Tab.1.center/0.25.1440.788@0.25.1440.788" timestamp="1637133724445" />
+    <state width="1384" height="201" key="GridCell.Tab.1.left" timestamp="1637936038565">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.1.left/0.25.1440.786@0.25.1440.786" timestamp="1637936038565" />
+    <state width="1396" height="237" key="GridCell.Tab.1.left/0.25.1440.788@0.25.1440.788" timestamp="1637133724444" />
+    <state width="1384" height="201" key="GridCell.Tab.1.right" timestamp="1637936038566">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state width="1384" height="201" key="GridCell.Tab.1.right/0.25.1440.786@0.25.1440.786" timestamp="1637936038566" />
+    <state width="1396" height="237" key="GridCell.Tab.1.right/0.25.1440.788@0.25.1440.788" timestamp="1637133724445" />
+    <state x="204" y="165" key="IDE.errors.dialog" timestamp="1637318227738">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="204" y="165" key="IDE.errors.dialog/0.25.1440.786@0.25.1440.786" timestamp="1637318227738" />
+    <state x="363" y="247" key="com.intellij.ide.util.TipDialog" timestamp="1638003659336">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="363" y="247" key="com.intellij.ide.util.TipDialog/0.25.1440.786@0.25.1440.786" timestamp="1638003659336" />
+    <state x="394" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1636956012877">
+      <screen x="0" y="25" width="1440" height="786" />
+    </state>
+    <state x="394" y="315" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.786@0.25.1440.786" timestamp="1636956012877" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase3.java</url>
+          <line>146</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase3.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase3.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>224</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase1.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase5.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase4.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>139</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>170</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase7.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase7.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase2.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SampleCI/WazeTestCase6.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

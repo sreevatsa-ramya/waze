@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="10">
+	<test name="Waze Demo Android" enabled="true">
+		<parameter name="deviceName" value="91KY17K52" />
+		<parameter name="OS" value="android" />
+
+		<classes>
+			<class name = "SampleCI.WazeTestCase4" ></class>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Waze Demo Android 2" enabled="true">
+		<parameter name="deviceName" value="RFCN90KKCGZ" />
+		<parameter name="OS" value="android" />
+
+		<classes>
+			<class name = "SampleCI.WazeTestCase4" ></class>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Waze Demo iOS" enabled="true">
+		<parameter name="deviceName" value="00008030-000925AA2E10802E" />
+		<parameter name="OS" value="ios" />
+		<classes>
+			<class name = "SampleCI.WazeTestCase4" ></class>
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Waze Demo iOS 2" enabled="true">
+		<parameter name="deviceName" value="00008030-00194CCE2100802E" />
+		<parameter name="OS" value="ios" />
+		<classes>
+			<class name = "SampleCI.WazeTestCase4" ></class>
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
