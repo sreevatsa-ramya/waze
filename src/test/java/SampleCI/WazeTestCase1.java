@@ -69,7 +69,8 @@ public class WazeTestCase1 {
 			browserName = "mobileOS";
 			capabilitiesMobile.setCapability("securityToken", securityToken);
 			capabilitiesMobile.setCapability("deviceName", deviceName);
-			//capabilitiesMobile.setCapability("app", "PUBLIC:Waze.apk");
+			PerfectoLabUtils.uploadMedia("demo", securityToken,"/Users/sreevatsa/Downloads/com.waze.apk","PUBLIC:Waze.apk");
+			capabilitiesMobile.setCapability("app", "PUBLIC:Waze.apk");
 			capabilitiesMobile.setCapability("appPackage", "com.waze");
 			//capabilitiesMobile.setCapability("unicodeKeyboard", "true");
 			capabilitiesMobile.setCapability("autoInstrument", "true");
